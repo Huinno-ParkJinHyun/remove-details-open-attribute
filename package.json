@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "adm-zip": "^0.5.10",
+    "aws-sdk": "^2.1569.0",
+    "cheerio": "^1.0.0-rc.12",
+    "extract-zip": "^2.0.1"
+  }
+}
